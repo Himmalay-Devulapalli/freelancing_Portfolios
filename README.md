@@ -1,5 +1,5 @@
 # freelancing_Portfolios
-This repository is an index for all the projects I have developed. 
+This repository is an index for few projects I have developed. 
 
 
 # [JobNut.in](https://jobnut.in)
